@@ -1,0 +1,40 @@
+/* 
+    Created on : 09/05/2016, 14:32:40
+    Author     : Gabriel Quadrado
+*/
+body{
+background-color: #e8eae8;
+margin-right: 500px;
+margin-left: 500px;
+border: solid;
+border-color:#999;
+font-family: Arial;
+}
+.button {  
+border-radius: 7px;
+font-family: Arial;
+color: #ffffff;
+font-size: 16px;
+background: #383838;
+padding: 10px 20px 10px 20px;
+text-decoration: none;
+width:150px;
+}
+.button:hover {
+background: #7d7d7d;
+text-decoration: none;
+}
+
+h2{
+    font-size: 100px;
+}
+table{
+font-size:18px;
+text-align:center;
+border:1px solid #333;
+padding:2px;
+}
+td, tr{
+border:1px solid #333;
+padding:10px;
+}
